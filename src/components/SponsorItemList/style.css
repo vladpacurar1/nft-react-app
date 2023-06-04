@@ -1,7 +1,7 @@
 .sponsor-item-list {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  padding: 50px 2px;
+  padding: 47px 0px;
 }
 
 .sponsor-item-list:nth-child(2n) {
