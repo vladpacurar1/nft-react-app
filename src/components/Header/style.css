@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 8px;
+  position: fixed;
+  background-color: var(--color-dark-2);
+  width: calc(100% - 16px);
+  z-index: 10;
+}
+
+.header_logo {
+  width: 130px;
+}
+
+.header_sign-up {
+  color: var(--color-pink);
+}
+
+.header_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 996px;
+}
