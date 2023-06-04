@@ -27,15 +27,15 @@
 
 .hero_right-image-shadow {
   position: absolute;
-  top: 78px;
-  right: 69px;
-  height: 192px;
+  top: 84px;
+  right: 46px;
+  height: 150px;
   z-index: -1;
   box-shadow: 0 0 100px 88px var(--color-pink);
 }
 
 .hero_right-image {
-  width: 200px;
+  width: 169px;
 }
 
 @media (min-width: 576px) {
