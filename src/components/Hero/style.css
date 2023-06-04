@@ -50,4 +50,8 @@
   .hero_left {
     max-width: 500px;
   }
+  .hero {
+    padding: 63px;
+    margin-top: 59px
+}
 }
